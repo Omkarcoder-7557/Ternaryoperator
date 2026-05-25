@@ -1,1 +1,1 @@
-ternary operator
+ternary  operator and basic code for logic development
